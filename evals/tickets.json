@@ -1,0 +1,18 @@
+[
+    {
+        "ticket": "I was charged twice this month",
+        "category": "billing"
+    },
+    {
+        "ticket": "App crashes when I click export",
+        "category": "bug"
+    },
+    {
+        "ticket": "I want my money back for order 4412",
+        "category": "refund"
+    },
+    {
+        "ticket": "WIN A FREE IPHONE click here",
+        "category": "spam"
+    }
+]
